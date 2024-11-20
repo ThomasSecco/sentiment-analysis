@@ -5,3 +5,4 @@ models/*.h5
 data/raw/*.csv
 data/processed/*.csv
 data/processed/*.pkl
+venv/
